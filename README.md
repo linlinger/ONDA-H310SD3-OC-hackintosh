@@ -7,7 +7,6 @@ memory 16G ddr3
 DGPU AMD RX 480 4G
 Network Card BCM94360CD
 
-
 Working
 DGPU hardware accelaration
 Network airdrop
@@ -16,14 +15,15 @@ I forgot what's working
 
 Not working 
 sleep
-nvram
-add more
+nvram fixed up( more actions needed)
+add more (Go and push request)
 iGPU,if you have an iGPU. you need to patch it yourself
-sidecar realted to iGPU
+
+
 
 Todo
 iGPU support (when I get a CPU with iGPU)
-nvram
+Themes
 
 
 
