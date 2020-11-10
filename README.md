@@ -15,7 +15,7 @@ I forgot what's working
 
 Not working 
 sleep
-nvram fixed up( more actions needed)
+nvram fixed up( more actions needed.Go to Misc and check it out)
 add more (Go and push request)
 iGPU,if you have an iGPU. you need to patch it yourself
 
