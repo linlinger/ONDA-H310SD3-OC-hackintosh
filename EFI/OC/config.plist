@@ -524,7 +524,7 @@
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -562,7 +562,7 @@
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
-			<false/>
+			<true/>
 			<key>BootProtect</key>
 			<string>Bootstrap</string>
 			<key>DmgLoading</key>
@@ -698,7 +698,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data></data>
+			<data>MbF+Tp+a</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemProductName</key>
@@ -706,7 +706,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02XG0FDH7JY</string>
 			<key>SystemUUID</key>
-			<string>945DD3F9-53F1-4425-98B8-B12FDA3C374D</string>
+			<string>96D43C80-E4AB-4EAF-B8D0-909B524E9F9A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -756,6 +756,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>OpenRuntime.efi</string>
+			<string>OpenUsbKbDxe.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>HfsPlus.efi</string>
 		</array>
@@ -838,7 +839,7 @@
 			<key>DeviceProperties</key>
 			<false/>
 			<key>FirmwareVolume</key>
-			<false/>
+			<true/>
 			<key>HashServices</key>
 			<false/>
 			<key>OSInfo</key>
