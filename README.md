@@ -7,13 +7,15 @@ memory 16G ddr3
 DGPU AMD RX 480 4G /RX580 4G
 Wireless Network Card BCM94360CD
 
-Working
+## Working
+
 DGPU hardware accelaration
 Network airdrop
 on board audio jack
 USB ports
 
-Not working 
+## Not working 
+
 sleep
 add more (Go and push request)
 iGPU,if you have an iGPU. you need to patch it yourself
@@ -23,4 +25,8 @@ iGPU support (when I get a CPU with iGPU)
 Theme Support
 
  Make it A Real Mac
+
+## About
+
+added theme from ocBinaryData. Huge thanks to it!
 
