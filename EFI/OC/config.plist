@@ -520,7 +520,7 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<false/>
+			<true/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PollAppleHotKeys</key>
@@ -737,7 +737,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
-			<integer>0</integer>
+			<integer>5</integer>
 			<key>AudioDevice</key>
 			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOut</key>
@@ -756,6 +756,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>OpenRuntime.efi</string>
+			<string>AudioDxe.efi</string>
 			<string>OpenUsbKbDxe.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>HfsPlus.efi</string>
@@ -811,7 +812,7 @@
 		<key>ProtocolOverrides</key>
 		<dict>
 			<key>AppleAudio</key>
-			<false/>
+			<true/>
 			<key>AppleBootPolicy</key>
 			<false/>
 			<key>AppleDebugLog</key>
