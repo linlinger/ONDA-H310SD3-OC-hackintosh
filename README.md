@@ -32,4 +32,4 @@ added theme from ocBinaryData. Huge thanks to it!
 
 # Read before installing Big Sur
 
-Please do follow the guid
+Please do follow the nvram fixup  guide in misc folder
