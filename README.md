@@ -30,3 +30,6 @@ Theme Support
 
 added theme from ocBinaryData. Huge thanks to it!
 
+# Read before installing Big Sur
+
+Please do follow the guid
