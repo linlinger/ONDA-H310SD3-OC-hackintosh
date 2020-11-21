@@ -32,11 +32,19 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>USB related fix</string>
+				<string>USB  mapping Fixes</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-USBX.aml</string>
+				<string>SSDT-EC-USBX.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB mapping</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-UIAC.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -297,13 +305,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>USBInjectAll.kext</string>
+				<string>USBPorts.kext</string>
 				<key>Comment</key>
-				<string></string>
+				<string>USB ports info</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBInjectAll</string>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -479,6 +487,8 @@
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
+			<false/>
+			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
@@ -692,21 +702,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02839303QXH69FJA</string>
+			<string>C02943701GULNV91M</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>4105</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>MbF+Tp+a</data>
+			<data>MpJljHWp</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XG0FDH7JY</string>
+			<string>C02ZL4YLJV3Q</string>
 			<key>SystemUUID</key>
-			<string>96D43C80-E4AB-4EAF-B8D0-909B524E9F9A</string>
+			<string>5F5A7E5A-6BD5-4054-A6AD-72A9CF930DE9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
