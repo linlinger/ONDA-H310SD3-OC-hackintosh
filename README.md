@@ -1,4 +1,4 @@
-# ONDA-H310SD3-OC-hackintosh
+# ONDA-H310SD3-OC-hackintosh[No longer updated]
 Installing macOS Catalina on onda h310sd3 board
 System info
 CPU : intel Core i3 9100f
